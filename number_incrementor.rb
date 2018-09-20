@@ -1,10 +1,12 @@
-puts 1
-puts 2
-puts 3
-puts 4
-puts 5
-puts 6
-puts 7
-puts 8
-puts 9
-puts 10
+number = 5
+
+puts number
+puts number + 1
+puts number + 2
+puts number + 3
+puts number + 4
+puts number + 5
+puts number + 6
+puts number + 7
+puts number + 8
+puts number + 9
