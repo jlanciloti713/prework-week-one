@@ -1,9 +1,4 @@
-hash = { first_name: "John", last_name: "Doe", age: 25 }
-index = 0
-
-while index < hash.length
-  puts hash[index]
-  index += 1
+def create_person
+ hash = { first_name: "John", last_name: "Doe", age: 25 }
 end
-
-puts hash
+puts create_person
